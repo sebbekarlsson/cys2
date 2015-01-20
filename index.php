@@ -12,7 +12,7 @@
 			CLASSIC YACHT SERVICE
 			</div>
 
-			<div class="toppart" align="center">
+			<div class="toppart" align="center" id="middletop">
 				<ul>
 					<li><a class="topbtn">Nyheter</a></li>
 					<li><a class="topbtn">Båtar</a><div class="dropdown">
@@ -51,14 +51,8 @@
 		<div class="middlepart" align="center">
 			<div class="content">
 				<div class="container">
-					<div class="newsmenu">
-						<a class="newsbtn">2015 06/07</a>
-						<a class="newsbtn">2015 06/07</a>
-						<a class="newsbtn">2015 06/07</a>
-						<a class="newsbtn">2015 06/07</a>
-						<a class="newsbtn">2015 06/07</a>
-					</div>
-					<div class="newspage" align="left">
+					
+				<div class="newspage" align="left">
 						<div class="text">
 						<h2>Livskvalitet är en vacker träbåt</h2>
 						Hur mår din träbåt? Kanske behöver något bytas eller bara fräschas upp? Kanske finns en dröm om en nybyggd båt vid bryggan? Vi erbjuder lösningar på era funderingar och önskemål. Vad ni än behöver ha gjort så gör vi noggranna arbeten med hög kvalitet. Både traditionella och moderna metoder används för bästa resultat. Classic Yacht Service erbjuder också hållbara och underhållsfria produkter för Din båt. 
@@ -66,6 +60,16 @@
 					</div>
 				<div style="clear:both;"></div>
 				</div>
+
+
+				<div class="newsmenu">
+						<a class="newsbtn">2015 06/07</a>
+						<a class="newsbtn">2015 06/07</a>
+						<a class="newsbtn">2015 06/07</a>
+						<a class="newsbtn">2015 06/07</a>
+						<a class="newsbtn">2015 06/07</a>
+					</div>
+
 				<div style="clear:both;"></div>
 			</div>
 		</div>
